@@ -1,0 +1,26 @@
+{
+  "name": "simple-did-resolver",
+  "version": "1.0.0",
+  "description": "A simple Decentralized Identity (DID) resolver package for JavaScript.",
+  "main": "did-resolver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/garizs/simple-did-resolver.git"
+  },
+  "keywords": [
+    "DID",
+    "resolver",
+    "identity",
+    "blockchain",
+    "decentralized"
+  ],
+  "author": "payka04@hotmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/garizs/simple-did-resolver/issues"
+  },
+  "homepage": "https://github.com/garizs/simple-did-resolver"
+}
