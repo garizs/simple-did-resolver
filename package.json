@@ -1,6 +1,6 @@
 {
   "name": "simple-did-resolver",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple Decentralized Identity (DID) resolver package for JavaScript.",
   "main": "did-resolver.js",
   "scripts": {
