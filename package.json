@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/garizs/simple-did-resolver/issues"
   },
-  "homepage": "https://github.com/garizs/simple-did-resolver"
+  "homepage": "https://github.com/garizs/simple-did-resolver",
+  "dependencies": {
+    "js-toolkit-apollo156": "^1.0.0"
+  }
 }
