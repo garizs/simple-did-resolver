@@ -17,17 +17,6 @@ class DIDResolver {
   }
 }
 
-// Example usage
-const resolver = new DIDResolver();
-const didToResolve = 'did:example:123456789';
-resolver.resolve(didToResolve)
-  .then((resolvedDocument) => {
-    console.log('Resolved DID Document:', resolvedDocument);
-  })
-  .catch((error) => {
-    console.error('Error resolving DID:', error);
-  });
-
 // Placeholder function to fetch DID document from blockchain
 async function fetchDIDDocumentFromBlockchain(did) {
   // Simulate fetching from a blockchain or other data source
